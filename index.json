@@ -22,10 +22,10 @@
   {
     "name": "A-Ext: Torrentio (Universal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentiouni",
-    "apk": "a-ext-all.torrentiouni-v14.3.apk",
+    "apk": "a-ext-all.torrentiouni-v14.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
