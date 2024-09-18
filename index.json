@@ -2,10 +2,10 @@
   {
     "name": "A-Ext: Torrentio (Anime)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentioani",
-    "apk": "a-ext-all.torrentioani-v14.7.apk",
+    "apk": "a-ext-all.torrentioani-v14.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
